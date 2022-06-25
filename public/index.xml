@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular Genetics of Human Cancer on Cancer Genetics</title>
+    <link>/</link>
+    <description>Recent content in Molecular Genetics of Human Cancer on Cancer Genetics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Information Technology for Life Science</title>
+      <link>/class/01-class/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/class/01-class/</guid>
+      <description>Slides View lectures slide in your browser (html)
+Action Items  Note that Assignment 1 is made available today.
+ Please make sure you have sent us your gmail account at email
+  Points of reflection  Your devices contain an incredible amount of personal information. The consequences from misuse by malicious individuals for some of this information are quite easy to see (eg credit card numbers). How else can data be stolen from your machine and used in a malcious fashion?</description>
+    </item>
+    
+    <item>
+      <title>Information Technology for Life Science</title>
+      <link>/class/example_01-class/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/class/example_01-class/</guid>
+      <description>Slides View lectures slide in your browser (html)
+Action Items  Note that Assignment 1 is made available today.
+ Please make sure you have sent us your gmail account at email
+  Points of reflection  Your devices contain an incredible amount of personal information. The consequences from misuse by malicious individuals for some of this information are quite easy to see (eg credit card numbers). How else can data be stolen from your machine and used in a malcious fashion?</description>
+    </item>
+    
+    <item>
+      <title>Assignments</title>
+      <link>/assignments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/assignments/</guid>
+      <description>Homework assignments 1
+There are two assignments that are each worth \(15\%\). Generally, each assignment covers material we covered in class either through the required readings and lectures in class or from invited speakers. They are designed so that you can explore concepts and data in more depth.
+Seeking assistance You should complete the assignments alone, however it is perfectly ok to ask for help. This order is the best for asking for assistance:</description>
+    </item>
+    
+    <item>
+      <title>Overview</title>
+      <link>/overview/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/overview/</guid>
+      <description>Course objectives 1 After some 45 years of research, we now understand how genes with specific mutations govern a wide range of traits of cancer cells. Some mutations in some genes initiate carcinoma while other mutations confer existing tumors with new capacities that help it thrive. Techniques to study the genetics of cancers have advanced tremendously over this period. In 1975 it was a major effort to sequence a single gene.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description>Contents  Project Proposal Full Project Some Suggestions   [^circos]
+The project has two components. In the first part of the course, you are asked to submit a project proposal. This will detail the topic and scope of your project. There is great latitutde for choosing a specific topic; some examples are provided below to inspire your choice. The project proposal is worth \(5\%\) of your grade. The purpose of the project proposal is to get you thinking early about a topic that interests you so that you can add to your project as the semester progresses.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/resources/</guid>
+      <description>Contents  Scientific literature Bioinformatic resources Time management Resource management Markdown Modern lab notebooks Citations and bibliography   Information technologies that may be useful for course work and research
+Scientific literature  This Western Libraries’ Tutorials is a very nice series of videos for accessing different types of information.
+ If you are trying to access journal articles from home (not within the UWO domain), this Western Library URL generator is probably what you need.</description>
+    </item>
+    
+    <item>
+      <title>Syllabus</title>
+      <link>/syllabus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/syllabus/</guid>
+      <description> Readings should be completed before each class session. Assignments can be found at at the Assignments page and at OWL. Assignment are submitted using OWL.
+  Date Number Topic Reading Video Slides+ Assignment Solutions     Sept 13 Lecture 1, Hour 1 Orientation        Sept 13 Lecture 1, Hour 1 The first cancer hallmarks        Sept 20 Lecture 2, Hour 1 Hallmarks of cancer: next generation        Sept 20 Lecture 2, Hour 2 Hallmarks of cancer: new dimensions        Sept 27 Lecture 3, Hours 1 and 2 TBA        Sept 23 -- Assignment 1 start        Oct 4 Lecture 4, Hour 1 Quiz on Cancer Hallamarks (5%)        Oct 4 Lecture 4, Hour 2 TBA        Oct 10 -- Project proposal due (5%)        Oct 11 Lecture 5, Hours 1 and 2 TBA        Oct 18 Lecture 6, Hours 1 and 2 TBA        Oct 20 -- Assignment 1 due (15%)        Oct 25 -- Midterm, 2 hours in class (15%)        Oct 30 -- Assignment 2 start        Nov 8 Lecture 7, Hours 1 and 2 TBA        Nov 15 Lecture 8, Hours 1 and 2 TBA        Nov 22 Lecture 9, Hours 1 and 2 TBA        Nov 29 Lecture 10, Hours 1 and 2 TBA        Nov 30 -- Assignment 2 due (15%)        Dec 6 Lecture 11, Hours 1 and 2 TBA        Dec 10 -- Project due (20%)        TBA, 2pm-4pm -- Final (25%)         </description>
+    </item>
+    
+  </channel>
+</rss>
