@@ -1,0 +1,105 @@
+---
+title: Resources
+slug: resources
+output:
+  blogdown::html_page:
+    template: ../pandoc/toc-title_html.template
+    toc: true
+---
+
+```{r include=FALSE}
+library(emo)
+```
+ 
+Information technologies that may be useful for course work and research
+
+# Scientific literature
+
+- This [Western Libraries' Tutorials](https://www.lib.uwo.ca/tutorials/index.html) is a very nice series of videos for accessing different types of information.
+
+- If you are trying to access journal articles from home (not within the UWO domain), this [Western Library URL generator](https://www.lib.uwo.ca/offcampus/remote.html) is probably what you need.
+
+It is difficult to keep up to date with new publications in your area(s) of interest. In addition to standard Google searches, I use some of the following strategy each day. 
+
+-  [<i class="fa fa-search"></i> NCBI's PubMed](https://pubmed.ncbi.nlm.nih.gov/) Provides access to almost all scientific publications. ^[Note that Western has subscriptions to many (non-open-source) journals. You need to connect to Western's VPN ([instructions here](https://)).] The NCBI has a tool where you can receive daily updates (by email) of all  abstracts containing specific keywords.^[Each morning I troll through these emails for relevant papers.]
+
+- [bioRxiv preprints](https://www.biorxiv.org/) and now [medRxiv preprints](https://www.medrxiv.org/) It is becoming increasingly common to submit manuscripts before publication to the preprint servers such as ${\tt bioRxiv}$. In fact, my group finds that there is quite often a year's delay between when a preliminary (unrefereed) version of a manuscript appears as a preprint and when it appears in a journal in its final version.^[A problem with preprint servers is that it is like drinking from a fire hose. It's hard to zero in on the papers you want to see.]
+
+-  [<i class="fa fa-twitter"></i> Twitter specifically #academictwitter](https://twitter.com/hallettmichael) In addition to  a platform that allows questionable right wing politicians to tweet questionable policy decisions, Twitter cannot be ignored as a valuable tool for following your scientific community. ^[I spend a considerable amount of micro-breaks following links to tweets of interesting look papers. Also, I find that Twitter allows you to expand out a bit and see groups/papers you might otherwise not run into.] I highly recommend that each student open a Twitter account for their "professional" purposes and follow members of your community. This includes journals and preprint servers who regularly tweet new papers.^[I often rely on journals to tweet new papers rather than going to the journal's webpage or having them  send me an email (yikes).]
+
+
+-  [<i class="fa fa-google"></i> Google Scholar](https://scholar.google.com/) Not surprisingly, this is a very powerful search engine for academic groups and publications. I recommend every student to establish a profile at Google Scholar.
+
+- Otherwise, I greatly rely on my group to post interesting articles to our ${\tt Slack}$ workspace and to give mini-presentations of potentially interesting papers in our lab meetings.
+
+- [Cancer Visualizations](https://www.cellsignal.com/pathways) has some beautiful images of cancer-related processes and detailed signalling maps.
+
+# Bioinformatic resources
+
+- [<i class="fa fa-database"></i> National Center for Biotechnology Information (NCBI)](https://www.ncbi.nlm.nih.gov/) A huge resource from the USA that houses a vast spectrum of biological data and datasets,  and bioinformatic tools. 
+
+- [<i class="fa fa-database"></i> European Molecular Biology Labs (EMBL)](https://www.embl.org/) and [EMBL-European Bioinformatics Institute (EBI)](https://www.ebi.ac.uk/) are the European analogs to the NCBI with similar mandates and scope.
+
+
+- [<i class="fa fa-database"></i> The Cancer Genome Atlast (TCGA) program](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga). TCGA, which is USA based, contains high-throughput profiles for several large patient cohorts across different cancer types. The availability of multi-modal high-throughput profiles conducting in a uniform manner across these cohorts opens up many analysis opportunities. 
+
+- [<i class="fa fa-database"></i> International Cancer Genome Consortium (ICGC)](https://dcc.icgc.org/) is similar to TCGA but an international consortium across more types of cancers.
+
+
+
+
+- [<i class="fa fa-google"></i> Google Drive](https://drive.google.com) An excellent and convenient collection of tools (documents, images, spreadsheets, presentations) with lots of storage space. This is cloud-based so teams can work on documents simultaneously. 
+
+- [<i class="fas fa-book"></i> Zotero](https://www.zotero.org/) or [<i class="fas fa-book"></i> Paperpile](https://paperpile.com/) It is really important to develop your library of bibliographic references, but it can certainly be challenging to keep all the references organized. Also, it is time consming to manually enter all the details of reference. There are many good tools out there; we tend to use Zotero as it is well integrated with Google Docs (for text files).
+
+
+- [<i class="fa fa-slack"></i> Slack](https://slack.com/) We will use this non-stop in the course. There are alternatives including open source efforts but for various reasons we choose ${\tt Slack}$ for all of our laboratory-related work. Any of these tools are far far superior than email (yikes).
+
+# Time management 
+
+There are many software packages for designing, executing and managing large projects that involve many people. Most of these packages are built for companies. However several are particularly useful for modern life science labs.
+
+
+- [<i class="fa fa-wrench"></i> Trello](https://trello.com/) This is a project planning tool that is quite handy. It is not life science specific and could be used for almost any time of proect or event that is complicated to plan. Some members of my lab use it.
+
+
+- [<i class="fa fa-wrench"></i> Labscrum](https://labscrum.org/) This is a strategy for conducting academic scientific research. It is a way of organizing a group, and provides a method to assist in tracking progress of projects and researchers.
+
+- [<i class="fa fa-power-off"></i> Toggl](https://toggl.com/) This is an app that allows you to manage your time. Basically, you can keep track of how long you spend on different tasks during the day. Many private consultants use this type of tool to record how long they spend on a client's project for billing purposes. It is also useful if you have trouble managing your study and research time.
+
+# Resource management
+
+Especially with wet labs, a consistent effort is needed to order, track and invoice reagents, kits, and other expendables. Moreover, there is a need to precisely and accurately handle samples. For instance, as we process samples donated by cancer patients, we have a moral obligation to ensure that the material is not lost or mislabeled. Our lab certainly finds it challenging to  maintain a "chain of custody". We have experience with several software systems.
+
+- [<i class="fa fa-wrench"></i> Quartzy](https://www.quartzy.com/) and [<i class="fa fa-benchling"></i> Benchling](https://www.benchling.com/) are both nice software systems, each with their pros and cons. 
+
+- [<i class="fa fa-qrcode"></i> Snipe-It](https://snipeitapp.com/) We recently installed this system as a way to generate QR- (or classic bar-) codes. Basically, you can print out QR code stickers and associate each QR code with one item (reagent, buffer, sample, computer, eraser) in your lab. You need only a cell phone with a camera. You can purchase cheap special sticker paper that survives autoclaves and -80 freezers.
+
+
+# Markdown
+
+The slides and website for this course were developed in Markdown, specifically a dialect deigned for R (${\tt RMarkdown}$). Fluency in Markdown is a useful skill to have as more and more tools and information migrates to the cloud.
+
+[^markdown]
+
+
+- [The Plain Person’s Guide to Plain Text Social Science](http://plain-text.co/): A comprehensive explanation and tutorial about why you should write data-based reports in Markdown.
+- [Markdown tutorial](https://www.markdowntutorial.com/): An interactive tutorial to practice using Markdown.
+- [Markdown cheatsheet](http://packetlife.net/media/library/16/Markdown.pdf): Useful one-page reminder of Markdown syntax.
+
+# Modern lab notebooks
+
+- These are interesting short articles on different approaches towards keeping lab notebooks, and the pros and cons of electronic laboratory notebooks (ELNs)  versus traditional paper notebooks. [E Pain (2019) Science](https://www.sciencemag.org/careers/2019/09/how-keep-lab-notebook) and [R Kwok (2018) Nature](https://www.nature.com/articles/d41586-018-05895-3). 
+
+- I  used a tool called  [<i class="fa fa-goodnotes"></i> Goodnotes](https://www.goodnotes.com). Others in my lab use [<i class="fa fa-evernote"></i> Evernote](https://www.evernote.com). 
+
+- I now use [<i class="fa fa-wrench"></i> Notion](https://notion.so/). This is software that really integrates many tools into one coherent framework. If everyone in a group is using the software, it is very easy to share notes, images, calendars, and other common information. As it is cloud based, the information is available anywhere to all members of the group.
+
+
+
+# Citations and bibliography
+
+[^bibtex] You can [download a BibTeX file](/bib/references.bib) of all the non-web-based readings in the course.
+
+[^bibtex]: {-} You can open the file in [BibDesk on macOS](http://bibdesk.sourceforge.net/), [JabRef on Windows](http://www.jabref.org/), or [Zotero](https://www.zotero.org/) or [Mendeley](https://www.mendeley.com/) online. I personally use Paperpile with Google Docs. 
+

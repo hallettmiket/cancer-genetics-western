@@ -1,0 +1,43 @@
+---
+title: "Molecular Genetics of Human Cancer"
+author: "Mike Hallett"
+date: "2022-07-17"
+---
+
+
+<span class="newthought"> This site contains</span> information that complements
+
+ - [Biochemistry 4450A](https://www.schulich.uwo.ca/biochem/) and 
+ 
+ - [Pathology and Laboratory Medicine 4450A](https://www.schulich.uwo.ca/pathol//index.html) 
+ 
+from  [Schulich School of Medicine and Denistry](https://www.schulich.uwo.ca/) at 
+[Western University](https://www.uwo.ca/). The official course page is accessible to Western students using  [OWL](owl.uwo.ca).  [^courseinfo]
+
+
+Specific  genes, processes and cellular responses are routinely mutated in cancer. This
+subverts normal cellular physiology creating characteristic alterations called ‘hallmarks’ that
+enable these cells to fuel the development of cancer. This course focuses on these underlying processes that alter gene function - and the functional pathways they affect - across a diverse range of cancers. 
+
+<span class="newthought">By the end of this course,</span> you will have:
+ 
+ -  an understanding of the hallmarks of cancer and their underlying genes and processes;
+ 
+ - the capacity to evaluate new reports and breakthroughs in cancer in a sound scientific manner;
+ 
+ - a conceptual understanding of how cancer model systems and clinical samples have been investigated both traditional assays and also  modern "systems biology" approaches;
+ 
+ - the capacity to explore cancer-related databases and models;
+  
+ - the ability to offer opinions and exhibit theoretical understanding of novel treatment scenarios;
+ 
+ - the skills to communicate technical concepts and experimental results to diverse audiences.  
+
+
+![](/images/twelve_hallmarks.jpeg){width=80%}  
+
+<strong>Figure.</strong> The 12 Hallmarks of cancer. [Hanahan D. (2022)](https://aacrjournals.org/cancerdiscovery/article/12/1/31/675608/Hallmarks-of-Cancer-New-DimensionsHallmarks-of) 
+
+
+[^courseinfo]: {-}
+  `r blogdown::shortcode("courseinfo")`

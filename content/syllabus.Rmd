@@ -1,0 +1,8 @@
+---
+title: "Syllabus"
+slug: syllabus
+---
+
+Readings should be completed *before* each class session. Assignments can be found at at the [Assignments](/assignments/) page and at OWL. Assignment are submitted using OWL.
+
+`r blogdown::shortcode("schedule")`

@@ -1,0 +1,43 @@
+---
+title: "Assignments"
+slug: assignments
+---
+
+
+# Homework assignments
+
+[^labinfo]
+
+There are two assignments that are each worth $15\%$. Generally, each assignment covers material we covered in class either through the required readings and lectures in class or from invited speakers. They are designed so that you can explore  concepts and data in more depth.
+
+# Seeking assistance
+
+You should complete the assignments alone, however it is perfectly ok to ask for help. This order is the best for asking for assistance:
+
+
+1. Ask questions in the <i class="fa fa-slack" aria-hidden="true"></i> ${\tt Slack}$ workspace  (${\tt \#cancer-genetics-western}$). ^[This allows other students in the class to practice answering  questions. Moreover, one answer posted there helps everyone.]
+   
+2. If the question can't be answered by other students on ${\tt Slack}$, either the TA or I can assist via ${\tt Slack}$.^[If you are too shy or think it's a "dumb" question, post it anonymously in Slack.]
+   
+3. As a very last resort, diret message via ${\tt Slack}$ technical questions to the TA or instructor.^[There are a lot of reasons to avoid DMing us. For example, if we answer a question in a DM, we have to re-answer the next time a student asks the same questions. However, if we answer it in a class-wide channel on ${\tt Slack}$, all students benefit and we only have to write out the answer once.]
+
+We understand that many people are self-conscience when asking questions, and would therefore try to avoid public ${\tt Slack}$ channels. Although there are ways on ${\tt Slack}$ to ask a question anonymously (and you are welcome to use them),  we would prefer that you build towards a pyschology that ***there are no stupid questions***. Learning to communicate with your peers is an important part of your studies.
+
+Remember that you can ask also questions during
+***TA office hours***, ***instructor office hours*** and ***during the lectures***.
+
+
+# Submitting assignments
+
+Assignment submission is always electronic and via  __OWL__. Please see the OWL course website for more details.
+
+
+# Late assignments
+
+Marginally late work (defined as less than 2 days past the deadline) can be ok, although you are warned that this is usually not the case near mid-terms or  end of term^[This is because it delays us releasing answer keys. Please respect that the TA is working on a tight timeline and any exceptions you ask for blowback of them.]
+
+Late late work (defined as more than 2 days) requires special permission from the instructor. ^[Generally, it is not a problem if it only happens once, the student is proactive in clarifying the situation with the instructor, and it does not hinder us releasing answer keys before midterms and exams.]
+
+
+[^labinfo]: {-}
+  `r blogdown::shortcode("labinfo")`
