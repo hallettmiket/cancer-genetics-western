@@ -1,4 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5593d0f5-bec7-41b1-bbe6-53aed0f28f2e/deploy-status)](https://app.netlify.com/sites/hallett-cancer-genetics/deploys)
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/73cc94f2-867d-4ad1-acab-5e1034a44bd4/deploy-status)](https://app.netlify.com/sites/cancer-genetics-western/deploys)
+
+
 
 # General
 
