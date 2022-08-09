@@ -46,8 +46,10 @@ Biology 2581b, Biochemistry 3381 or Pathology 3500
 We will primarily read papers from the primary literature. This includes review articles that provide scope and vision for the different hallmarks and their components. It also includes in depth research articles contributed by the individual lecturers who have been invited to speak about specific aspects of their cancer research. However, there are two excellent textbooks that I would recommend especially if you intend to continue in the field of cancer research. Both textbooks are classics in this field and provide a superb exposition of molecular cancer research.
 
 [^weinberg_book] 
-
+ 
 - [The Biology of Cancer, RA Weinberg, 2nd edition](https://blackwells.co.uk/bookshop/product/9780815345282?gC=4cfad707612&gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcQgzdyQdUqNEYMZSG-rMKGPuUJfxJDiAessacL76Ug2LztON-AvPDAaAqFXEALw_wcB)
+
+Be aware that a third edition of this textbook is about to be released; it was scheduled by the publishers for July 2023.
 
 [^pecorino_book]
 
