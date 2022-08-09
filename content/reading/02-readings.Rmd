@@ -7,7 +7,7 @@ date: "2022-09-08"
 
 # Required
 
-- Please read the [Overview](/overview/) for the course and familiarize yourself with the content at OWL.
+- Please read the [Overview](/overview/) for the course and familiarize yourself with the content at OWL. 
 
 - Please read the [Resources](/resources/) for the course.
 
@@ -15,7 +15,7 @@ date: "2022-09-08"
 
 - [Hallmarks of Cancer: the Next Generation](https://www.cell.com/cell/fulltext/S0092-8674(11)00127-9?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS0092867411001279%3Fshowall%3Dtrue) D. Hanahan and R. Weinberg (2011) Cell 144 (5)
 
-- [Hallmarks of Cancer: New Dimensions](https://doi.org/10.1158/2159-8290.CD-21-1059) D. Hanahan (2022) Cancer Discov (2022) 12 (1): 31–46.
+- [Hallmarks of Cancer: New Dimensions](https://doi.org/10.1158/2159-8290.CD-21-1059) D. Hanahan (2022) Cancer Discov (2022) 12 (1): 31–46. 
 
 
 # Recommended
