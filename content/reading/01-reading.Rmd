@@ -4,7 +4,7 @@ date: "2022-09-08"
 ---
 
 Readings  should be completed _before_ the actual lecture. 
-The lecture itself is intended to provide a deeper exposition of the material and provide additionl insight.
+The lecture itself is intended to provide a deeper exposition of the material and provide additional insight.
  
 # Required 
    
@@ -13,7 +13,7 @@ The lecture itself is intended to provide a deeper exposition of the material an
  
   
 - Please read the [Resources](/resources/) for the course.  
- 
+  
 
 - [The Hallmarks of Cancer](https://www.cell.com/fulltext/S0092-8674(00)81683-9) Hanahan and Weinberg (2000) Cell. Volume 100, Issue 1.
 
