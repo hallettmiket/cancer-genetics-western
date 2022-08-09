@@ -3,22 +3,22 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/class/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/class/example_01-class/</loc>
+    <lastmod>2022-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2022-06-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/class/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/class/01-class/</loc>
-    <lastmod>2020-09-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/class/example_01-class/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url>
   

@@ -1,6 +1,6 @@
 ---
-title: "Information Technology for Life Science"
-date: "2020-09-10"
+title: "Orientation and first hallmarks"
+date: "2022-08-01"
 ---
 
 # Slides
@@ -9,18 +9,9 @@ date: "2020-09-10"
 
 # Action Items
 
- - Note that Assignment 1 is made available today. 
-
-- Please make sure you have sent us your gmail account at [email](mailto:bioinfo.western@gmail.com)
-
+Please do the readings and study the course information (overview, syllabus, resources and other items at the official OWL website)
 
 
 # Points of reflection
-
-- Your devices contain an incredible amount of personal information. The consequences from misuse by malicious 
-individuals for some of this information are quite easy to see (eg credit card numbers). How else can data be
-stolen from your machine and used in a malcious fashion?
-
-- What are some of the potential negative aspects of cloud approaches in terms of security and privacy? What mechanisms exist to stop or at least make difficult misuse of your data?
 
 
