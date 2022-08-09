@@ -1,6 +1,6 @@
 ---
 title: "Orientation and the first 6 hallmarks"
-date: "2022-09-08"
+date: "2022-08-08"
 ---
 
 Readings  should be completed _before_ the actual lecture. 
@@ -27,9 +27,8 @@ The lecture itself is intended to provide a deeper exposition of the material an
 
 # Action items  
 
-- Ensure that you are familiar with the OWL course page.
+- Ensure that you are familiar with the [OWL course page](https://owl.uwo.ca/x/gGWomX).
 
-- Ensure that you are familiar with the [www course page for the course](https://tba).
 
 - Using your UWO email acccount, join the Slack workspace at [cancer-genetics-uwo.slack.com](https://cancer-genetics-uwo.slack.com)
 
