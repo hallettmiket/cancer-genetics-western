@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Readings on Cancer Genetics</title>
+    <link>/reading/</link>
+    <description>Recent content in Readings on Cancer Genetics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 08 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hallmarks everywhere</title>
+      <link>/reading/02-readings/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/02-readings/</guid>
+      <description>Required  Please read the Overview for the course and familiarize yourself with the content at OWL.
+ Please read the Resources for the course.
+ The Hallmarks of Cancer D. Hanahan and R. Weinberg (2000) Cell 100 (1)
+ Hallmarks of Cancer: the Next Generation D. Hanahan and R. Weinberg (2011) Cell 144 (5)
+ Hallmarks of Cancer: New Dimensions D. Hanahan (2022) Cancer Discov (2022) 12 (1): 31–46.</description>
+    </item>
+    
+    <item>
+      <title>Orientation and the first 6 hallmarks</title>
+      <link>/reading/01-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/01-reading/</guid>
+      <description>Readings should be completed before the actual lecture. The lecture itself is intended to provide a deeper exposition of the material and provide additional insight.
+Required  Please read the Overview for the course and familiarize yourself with the content at OWL.1
+ Please read the Resources for the course.
+ The Hallmarks of Cancer Hanahan and Weinberg (2000) Cell. Volume 100, Issue 1.
+  Recommended  Consider the two textbooks The biology of cancer, 2nd edition from R.</description>
+    </item>
+    
+  </channel>
+</rss>
