@@ -24,6 +24,10 @@ The lecture itself is intended to provide a deeper exposition of the material an
 
 Please make sure that you understand the concept of quiescence and how it differs from normal cell cycle.
 
+- Chapter 5 of RA Weinberg, The biology of cancer.
+
+- [Movie about DNA replication](https://www.youtube.com/watch?v=TNKWgcFPHqw)
+
 - Coller HA (2011) The essence of quiescence. [Science](doi:10.1126/science.1216242).
 
 - Consider the two textbooks [The biology of cancer, 2nd edition](https://blackwells.co.uk/bookshop/product/9780815345282?gC=4cfad707612&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiOHyQt9hNtV0wc4wwIVY0L6DOpitcP_vIoaLmcQteP5j8483x_bL7AaArSKEALw_wcB) from R. Weinberg and [Molecular biology of cancer, 5th edition](https://blackwells.co.uk/bookshop/product/9780198833024?gC=4cfad707612&gclid=Cj0KCQjwhqaVBhCxARIsAHK1tiPR03yNqRZ7pwJDMHSbVY6ZOg1RZR7MHYyl_OUCDg2cef3wvcYqmnEaAqSSEALw_wcB) from L. Pecorino.
