@@ -10,18 +10,22 @@ date: "2022-08-08"
 
 - Hanahan and Weinberg (2011) The Hallmarks of Cancer: Next Generation.  [Cell](https://doi: 10.1016/j.cell.2011.02.013.)
 
-- Hanahan (2022) Hallmarks of Cancer: New Dimensions. [Cancer Discovery](https://10.1158/2159-8290.CD-21-1059)
-
 
 # Recommended
 
 - Hanahan D, Coussens L (2012) Accessories to the Crime: Functions
 of Cells Recruited to the Tumor Microenvironment. [Cancer Cell](https://doi.org/10.1016/j.ccr.2012.02.022)
 
+- [Angiogenesis](https://www.youtube.com/watch?v=Ep_nCSEDeAE)
 
+- [Tissue Invasion](https://www.youtube.com/watch?v=bdWRZd19swg)
 
+# Complementary
 
-# Action items  
+[D. Hanahan speaking about the hallmarks of cancer](https://youtu.be/NWcv1r2cgII)
 
+[DNA replication](https://www.youtube.com/watch?v=TNKWgcFPHqw)
 
-# Points of reflection
+# Action points
+
+Consider the various points of reflection throughout the slides.

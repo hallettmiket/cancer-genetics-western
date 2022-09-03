@@ -3,7 +3,4 @@ title: "Orientation and Introduction to Hallmarks"
 date: "2022-08-08"
 ---
 
-
-[D. Hanahan speaking about the hallmarks of cancer](https://youtu.be/NWcv1r2cgII)
-
-[DNA replication](https://www.youtube.com/watch?v=TNKWgcFPHqw)
+ 
