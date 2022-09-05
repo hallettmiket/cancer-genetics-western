@@ -49,4 +49,4 @@ Please make sure that you understand the concept of quiescence and how it differ
 
 - Throughout the course exercises including assignments, exams and projects, it is expected that you have chosen a specific cancer type, a specific pathway or process, and a specific gene. The gene, pathway and process are ideally of special interest in your chosen cancer type.
 
-For example, I might choose invasive ductal breast carcinoma with a focus on Akt-mediated signalling and the Human Epidermal Growth Factor 2 (HER2). 
+- For example, I might choose invasive ductal breast carcinoma with a focus on Akt-mediated signalling and the Human Epidermal Growth Factor 2 (HER2). 
