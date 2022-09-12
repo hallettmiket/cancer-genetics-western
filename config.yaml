@@ -61,10 +61,10 @@ params:
     copyrightYear: "2022"
     contactDetails: Slack
   labs:
-    TA: Karling Frankel and Robert Stewart
+    TA: Karling Frankel and Robbie Stewart
     email: kfranke2@uwo.ca and rstewa68@uwo.ca
-    location:  "MSB X and MSB Y"
-    officehours: "Office Hourse: TBA" 
+    location:  "MSB 352 both"
+    officehours: "Office Hourse: Karling - TBA; Robbie Thursdays 3pm" 
   university: 
     name: Western University
     url: "https://www.uwo.ca/"
