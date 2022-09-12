@@ -23,6 +23,8 @@ The lecture itself is intended to provide a deeper exposition of the material an
  
 # Recommended
 
+- Chapters 1 and 2 of Weinberg, The biology of cancer.
+
 Please make sure that you understand the concept of quiescence and how it differs from normal cell cycle.
 
 - Chapter 5 of RA Weinberg, The biology of cancer.
