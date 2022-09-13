@@ -6,6 +6,6 @@ date: "2022-08-01"
 # Slides
 
 
-- [Orientation](tba)
+- [Orientation](https://docs.google.com/presentation/d/1j-pQHz4RgQI64wLCWo7wdbL2lP8CoaonaIbwyZ0NglY/edit?usp=sharing)
 
-- [Hallmarks I](tba)
+- [Hallmarks I](https://docs.google.com/presentation/d/1au8c1NfEGFJJ-zzkPjp8lQBCwFdVZJXTf3HaqtA8pzA/edit?usp=sharing)
