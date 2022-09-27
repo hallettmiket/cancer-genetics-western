@@ -6,6 +6,6 @@ date: "2022-08-01"
 # Slides
 
 
-- [Hallmarks II](tba)
+- [Hallmarks II](https://docs.google.com/presentation/d/1au8c1NfEGFJJ-zzkPjp8lQBCwFdVZJXTf3HaqtA8pzA/edit?usp=sharing)
 
 - [Hallmarks III](tba)
