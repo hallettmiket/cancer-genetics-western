@@ -7,6 +7,10 @@ date: "2022-08-08"
 
 # Required
 
+- [Zeuner A, Todaro M, Stassi G, De Maria R (2014) Colorecatal cancer stem cells: from the crypt to the clinic. Cell Stem Cell](https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(14)00524-4?_returnURL=https%3A%2F%2Flinkinghub.elsevier.com%2Fretrieve%2Fpii%2FS1934590914005244%3Fshowall%3Dtrue)
+
+- [Kuipers EJ et al. (2016) Colorectal cancer. Nat Rev Dis Primers.](https://pubmed.ncbi.nlm.nih.gov/27189416/)
+
 
 # Complementary reading
 
@@ -17,8 +21,6 @@ If you would like to better understand EMT, this is a good paper to read:
 
 - Remember that if you have difficulty accessing these articles, the course web page has advice to use the Western VPN.
 
-- Be ready for the Quiz after the talk. It will be about 30 minutes in length and cover up to the end of Lecture 3 (however ever far I got).
 
 # Points of reflection
 
-I would recommend reflecting on the various points of reflection in preparation for the quiz.
