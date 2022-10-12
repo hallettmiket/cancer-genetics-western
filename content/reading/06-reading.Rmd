@@ -9,7 +9,7 @@ date: "2022-08-08"
 
 - [Peinado H et al. (2017)  Pre-metastatic niches: organ-specific homes for metastases. Nature Reviews.](https://doi.org/10.1038/nrc.2017.6)
 
-- [Shani O et al. (2021) Evolution of fibroblasts in the lung metastatic microenvironment is driven by stage-specific transcriptional plasticity. eLife,](https://10.7554/eLife.60745)
+- [Shani O et al. (2021) Evolution of fibroblasts in the lung metastatic microenvironment is driven by stage-specific transcriptional plasticity. eLife,](https://elifesciences.org/articles/60745)
 
 
 # Complementary reading
