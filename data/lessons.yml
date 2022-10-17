@@ -46,7 +46,7 @@ lessons:
      reading: "05-reading"
      video: "05-video"
      class: "05-class"
-   - number: "Lecture 5, Hour 2"
+   - number: "Lecture 5, Hour 2" 
      title: "M.Hallett; how genomic instability, mutations, mutational spectra drive cancer"
      date: "Oct 11"
    - number: "--"
