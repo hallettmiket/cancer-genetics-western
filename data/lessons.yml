@@ -72,6 +72,7 @@ lessons:
    - number: "Lecture 7, Hour 2"
      title: "M. Hallett; Modern bioinformatic tools for exploring cancer"
      date: "Nov 8"
+     class: "07-class"
    - number: "Lecture 8, Hour 1"
      title: "Dr. Vanessa Dumeaux; Interactions between a tumor and the patient microbiome and systemic response"
      date: "Nov 15"
