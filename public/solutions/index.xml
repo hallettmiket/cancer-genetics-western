@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Aug 2022 00:00:00 +0000</lastBuildDate><atom:link href="/solutions/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Assignment 1</title>
+      <link>/solutions/01-solutions/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/01-solutions/</guid>
+      <description>Soluitons to Assignment 1</description>
+    </item>
+    
+    <item>
       <title>Quiz 1</title>
       <link>/solutions/01-quiz/</link>
       <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
