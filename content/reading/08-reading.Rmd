@@ -1,5 +1,5 @@
 ---
-title: "Mutations and microenvironment in tumor initiation"
+title: "Cancer transcriptomics"
 date: "2022-08-08"
 ---
 
@@ -8,9 +8,10 @@ date: "2022-08-08"
 # Required
 
 [Marcin Cieslik and Arul M. Chinnaiyan (2018) Cancer transcriptome profiling at the 
-juncture of clinical translation](doi: 10.1038/nrg.2017.96)
+juncture of clinical translation](https://pubmed.ncbi.nlm.nih.gov/29279605/)
 
-[Tofigh et al. (2014) Prognostic ease and difficulty of invasive breast cancer]()
+[Tofigh et al. (2014) Prognostic ease and difficulty of invasive breast cancer](
+https://dx.doi.org/10.1016/j.celrep.2014.08.073)
 
 # Complementary reading
 
