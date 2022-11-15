@@ -11,7 +11,7 @@ date: "2022-08-08"
 juncture of clinical translation](https://pubmed.ncbi.nlm.nih.gov/29279605/)
 
 [Tofigh et al. (2014) Prognostic ease and difficulty of invasive breast cancer](
-https://dx.doi.org/10.1016/j.celrep.2014.08.073)
+https://dx.doi.org/10.1016/j.celrep.2014.08.073) 
 
 # Complementary reading
 
