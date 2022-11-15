@@ -1,0 +1,8 @@
+---
+title: "Modern bioinformatics tools for cancer"
+date: "2022-08-01"
+---
+
+# Slides
+
+- [Dr. Dumeaux](https://docs.google.com/presentation/d/1KrJECY4NoU7X-GMaNo35c3vF6i1DqjDV/edit?usp=sharing&ouid=116518493905571963365&rtpof=true&sd=true)
