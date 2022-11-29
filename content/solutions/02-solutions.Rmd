@@ -1,0 +1,8 @@
+---
+title: "Assignment 1"
+date: "2022-08-01"
+---
+ 
+here.
+
+[Solutions to Assignment 1](/solutions/01-solutions.pdf)
