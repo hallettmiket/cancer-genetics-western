@@ -9,7 +9,7 @@ output:
 ---
 [^circos]
 
-The project has two components. In the first part of the course, you are asked to submit
+The project has two components. In the first part of the course, you are asked to submit 
 a project proposal. This will detail the topic and scope of your project. There is great latitutde for choosing a specific topic; some examples are provided below to inspire your choice. The project 
 proposal is worth $5\%$ of your grade. The purpose of the project proposal is to get you thinking early about a topic that interests you so that you can add to your project as the semester progresses.
 
