@@ -19,18 +19,17 @@ menu:
     - name: Overview
       url: /overview/
       weight: 1
-    - name: Assignments 
+    - name: Assignment/Project 
       url: /assignments/
-      weight: 4
+      weight: 3
     - name: Syllabus
       url: /syllabus/
       weight: 2
     - name: Resources
       url: /resources/
-      weight: 3
-    - name: Projects
-      url: /projects/
-      weight: 5
+      weight: 4
+
+
 # Disable taxonomies
 taxonomies:
   tag: ""
@@ -46,25 +45,24 @@ params:
     twitter: hallettmichael
     github: hallettmiket
     bitbucket: hallettlab
-    office: "MSB 352"
+    office: "MSB 360"
     officehours: "Office Hours Tuesdays 4pm"
   course:
     number: "4450A"
-    dates: "Fall 2022"
+    dates: "Fall 2023"
     days: "Tuesdays"
     time: "5:30pm-7:30pm"
-    location: "MSB-M282"
+    location: "MSB-M384"
     twitter: hallettmichael
-    slack: "https://cancer-genetics-uwo.slack.com"
-    youtube: "https://www.youtube.com/channel/UCx3QJc2DZSo-mny8UERmywg?view_as=subscriber"
+    slack: "https://cancer-uwo.slack.com"
     github: "hallettmiket/hallettmiket.github.io"
-    copyrightYear: "2022"
+    copyrightYear: "2023"
     contactDetails: Slack
   labs:
-    TA: Karling Frankel and Robbie Stewart
-    email: kfranke2@uwo.ca and rstewa68@uwo.ca
-    location:  "MSB 352 both"
-    officehours: "Office Hourse: Karling - Wednesday 3pm; Robbie Thursdays 3pm" 
+    TA: Blane Gebreyes and TBA
+    email: bgebreye@uwo.ca and TBA
+    location:  "TBA"
+    officehours: "Office Hourse: TBA" 
   university: 
     name: Western University
     url: "https://www.uwo.ca/"

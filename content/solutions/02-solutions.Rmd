@@ -1,8 +1,0 @@
----
-title: "Assignment 2"
-date: "2022-08-01"
----
- 
-here.
- 
-[Solutions to Assignment 2](/solutions/01-solutions.pdf)

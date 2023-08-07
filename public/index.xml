@@ -8,27 +8,292 @@
     <language>en-us</language>
     <lastBuildDate>Fri, 17 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Information Technology for Life Science</title>
-      <link>/class/01-class/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <title>Cancer signaling, tumor microenvironment, and immunotherapy</title>
+      <link>/reading/11-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
       
-      <guid>/class/01-class/</guid>
-      <description>Slides View lectures slide in your browser (html)
-Action Items  Note that Assignment 1 is made available today.
- Please make sure you have sent us your gmail account at email
-  Points of reflection  Your devices contain an incredible amount of personal information. The consequences from misuse by malicious individuals for some of this information are quite easy to see (eg credit card numbers). How else can data be stolen from your machine and used in a malcious fashion?</description>
+      <guid>/reading/11-reading/</guid>
+      <description> Required Dr. Kun Ping Lu’s readings:
+ Zhou XZ and Lu KP (2016) The isomerase PIN1 controls numerous cancer-driving pathways and is a unique drug target
+ Koikawa et al. (2016) Targeting Pin1 renders pancreatic cancer eradicable by synergizing with immunochemotherapy
+  Complementary reading Action items Points of reflection </description>
     </item>
     
     <item>
-      <title>Information Technology for Life Science</title>
+      <title>Cancer transcriptomics</title>
+      <link>/reading/08-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/08-reading/</guid>
+      <description> Required Marcin Cieslik and Arul M. Chinnaiyan (2018) Cancer transcriptome profiling at the juncture of clinical translation
+Tofigh et al. (2014) Prognostic ease and difficulty of invasive breast cancer
+Complementary reading Action items Points of reflection </description>
+    </item>
+    
+    <item>
+      <title>Childhood ALL and quiz</title>
+      <link>/reading/04-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/04-reading/</guid>
+      <description>Required Hunger SPH and Mulligan. CG Acute Lymphoblastic Leukemia in Children, New England Journal of Medicine, 2015
+Brady SW et al. The genomic landscape of pediatric acute lymphoblastic leukemia. Nature Genetics, 2022
+Action items  Remember that if you have difficulty accessing these articles, the course web page has advice to use the Western VPN.
+ Be ready for the Quiz after the talk. It will be about 30 minutes in length and cover up to the end of Lecture 3 (however ever far I got).</description>
+    </item>
+    
+    <item>
+      <title>Colon Cancer, and the study of the origin of cancers</title>
+      <link>/reading/05-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/05-reading/</guid>
+      <description>Required  Zeuner A, Todaro M, Stassi G, De Maria R (2014) Colorecatal cancer stem cells: from the crypt to the clinic. Cell Stem Cell
+ Kuipers EJ et al. (2016) Colorectal cancer. Nat Rev Dis Primers.
+  Complementary reading If you would like to better understand EMT, this is a good paper to read: Kalluri and Weinberg (2009) The basics of epithelial-mesenchymal transition. The Journal of Clinical Investigation</description>
+    </item>
+    
+    <item>
+      <title>Drs. C. Schild-Poulter and L. Dagnino</title>
+      <link>/video/10-video/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/video/10-video/</guid>
+      <description>Lecture 10</description>
+    </item>
+    
+    <item>
+      <title>E3 ligases s &amp; epidermal architecture, progenitors, mechanisms of UV-caused SCC</title>
+      <link>/reading/10-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/10-reading/</guid>
+      <description>Required Dr. Caroline Schild-Poulter’s readings:
+ Senft et al. (2017) Ubiquitin ligases in oncogenic transformation and cancer therapy
+ Dale et al. (2021) Advancing targeted protein degradation for cancer therapy
+  Dr. Lina Dagnino’s readings:
+ McHugh et al. (2020) The identification of potential therapeutic targets for cutaneous squamous cell carcinoma
+ Fania et al. (2021) Cutaneous Squamous Cell Carcinoma: From Pathophysiology to Novel Therapeutic Approaches
+ Tang, Kinwah, Chan (2021) Incidence and mortality rates of keratinocyte carcinoma from 1998–2017: a population-based study of sex differences in Ontario, Canada</description>
+    </item>
+    
+    <item>
+      <title>Hallmarks everywhere</title>
+      <link>/reading/02-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/02-reading/</guid>
+      <description>Required  Hanahan and Weinberg (2011) The Hallmarks of Cancer: Next Generation. Cell  Recommended  Hanahan D, Coussens L (2012) Accessories to the Crime: Functions of Cells Recruited to the Tumor Microenvironment. Cancer Cell
+ Angiogenesis
+ Tissue Invasion
+  Complementary D. Hanahan speaking about the hallmarks of cancer
+DNA replication
+Action points Consider the various points of reflection throughout the slides.</description>
+    </item>
+    
+    <item>
+      <title>Hallmarks everywhere</title>
+      <link>/reading/03-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/03-reading/</guid>
+      <description> Required  Hanahan (2022) Hallmarks of Cancer: New Dimensions. Cancer Discovery  Recommended  Talmadge JE and Fidler IJ (2010) The Biology of Cancer Metastasis: Historical Perspective..  Complementary reading Friedl et al. (2012) Classifying collective cancer cell invasion
+Action items Points of reflection </description>
+    </item>
+    
+    <item>
+      <title>Hallmarks I</title>
+      <link>/video/02-video/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/video/02-video/</guid>
+      <description>Lecture 2</description>
+    </item>
+    
+    <item>
+      <title>Hallmarks I</title>
+      <link>/video/03-video/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/video/03-video/</guid>
+      <description>Lecture 3</description>
+    </item>
+    
+    <item>
+      <title>Mutations and microenvironment in tumor initiation</title>
+      <link>/reading/07-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/07-reading/</guid>
+      <description>Required These are the readings from Dr. Turley
+ Bissel MJ, Ines WC (2011) Why don’t we get more cancer? A proposed role of the microenvironment in restraining cancer progression
+ Martincorena I et al. (2015) High burden and pervasive positive selection of somatic mutations in normal human skin
+ Tian X et al. (2013) High molecular weight hyaluronan mediates the cancer resistance of the naked mole-rat
+  For the second hour, during my talk:</description>
+    </item>
+    
+    <item>
+      <title>Orientation and Introduction to Hallmarks</title>
+      <link>/video/01-video/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/video/01-video/</guid>
+      <description>Lecture 1</description>
+    </item>
+    
+    <item>
+      <title>Orientation and the first 6 hallmarks</title>
+      <link>/reading/01-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/01-reading/</guid>
+      <description>Readings should be completed before the actual lecture. The lecture itself is intended to provide a deeper exposition of the material and provide additional insight.
+Required  Please read the Overview for the course and familiarize yourself with the content at OWL.1
+ Please read the Resources for the course.
+ The Hallmarks of Cancer Hanahan and Weinberg (2000) Cell. Volume 100, Issue 1.
+ Consider the two textbooks The biology of cancer, 2nd edition from R.</description>
+    </item>
+    
+    <item>
+      <title>Role of the lung microenvironment in mediating breast cancer metastasis</title>
+      <link>/reading/06-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/06-reading/</guid>
+      <description> Required  Peinado H et al. (2017) Pre-metastatic niches: organ-specific homes for metastases. Nature Reviews.
+ Shani O et al. (2021) Evolution of fibroblasts in the lung metastatic microenvironment is driven by stage-specific transcriptional plasticity. eLife,
+  Complementary reading Action items  Remember that if you have difficulty accessing these articles, the course web page has advice to use the Western VPN.  Points of reflection </description>
+    </item>
+    
+    <item>
+      <title>Virus/host interactions &amp; sensitizing tumors for immunotherapy</title>
+      <link>/reading/09-reading/</link>
+      <pubDate>Mon, 08 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/reading/09-reading/</guid>
+      <description> Required Dr. Joe Mymryk’s readings:
+ Zapatka et al. (2020) The landscape of viral associations in human cancers  Dr. Saman Malecki’s readings:
+ Motta et al. (2021) Immunotherapy in microsatellite instability metastatic colorectal cancer: Current status and future perspectives
+ Li et al. (2022) Gut microbiome in modulating immune checkpoint inhibitors
+  Complementary reading Action items Points of reflection </description>
+    </item>
+    
+    <item>
+      <title>Assignment 1</title>
+      <link>/assignment/01-assignment/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/assignment/01-assignment/</guid>
+      <description>Google Drive Document</description>
+    </item>
+    
+    <item>
+      <title>Assignment 1</title>
+      <link>/solutions/01-solutions/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/01-solutions/</guid>
+      <description>here.
+Solutions to Assignment 1</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2</title>
+      <link>/assignment/02-assignment/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/assignment/02-assignment/</guid>
+      <description>Google Drive Document</description>
+    </item>
+    
+    <item>
+      <title>Assignment 2</title>
+      <link>/solutions/02-solutions/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/02-solutions/</guid>
+      <description>here.
+Solutions to Assignment 2</description>
+    </item>
+    
+    <item>
+      <title>Cancer transcriptomics</title>
+      <link>/class/08-class/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/class/08-class/</guid>
+      <description> Slides  Dr. Dumeaux  </description>
+    </item>
+    
+    <item>
+      <title>Dr. Kun Ping Lu</title>
+      <link>/class/11-class/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/class/11-class/</guid>
+      <description> Slides  Dr. Kun Ping Lu  </description>
+    </item>
+    
+    <item>
+      <title>Modern bioinformatics tools for cancer</title>
+      <link>/class/07-class/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/class/07-class/</guid>
+      <description> Slides  Bioinformatics Resources
+ Hallmarks III
+  </description>
+    </item>
+    
+    <item>
+      <title>Orientation and first hallmarks</title>
+      <link>/class/01-class/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/class/01-class/</guid>
+      <description> Slides  Orientation
+ Hallmarks I
+  </description>
+    </item>
+    
+    <item>
+      <title>Orientation and first hallmarks</title>
+      <link>/class/02-class/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/class/02-class/</guid>
+      <description> Slides  Hallmarks II  </description>
+    </item>
+    
+    <item>
+      <title>Orientation and first hallmarks</title>
+      <link>/class/03-class/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/class/03-class/</guid>
+      <description> Slides  Hallmarks II
+ Hallmarks III
+  </description>
+    </item>
+    
+    <item>
+      <title>Orientation and first hallmarks</title>
       <link>/class/example_01-class/</link>
-      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
       
       <guid>/class/example_01-class/</guid>
-      <description>Slides View lectures slide in your browser (html)
-Action Items  Note that Assignment 1 is made available today.
- Please make sure you have sent us your gmail account at email
-  Points of reflection  Your devices contain an incredible amount of personal information. The consequences from misuse by malicious individuals for some of this information are quite easy to see (eg credit card numbers). How else can data be stolen from your machine and used in a malcious fashion?</description>
+      <description> Slides  Orientation
+ Hallmarks I
+  </description>
+    </item>
+    
+    <item>
+      <title>Quiz 1</title>
+      <link>/solutions/01-quiz/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/solutions/01-quiz/</guid>
+      <description>Google Drive Document</description>
     </item>
     
     <item>
@@ -78,8 +343,8 @@ Scientific literature  This Western Libraries’ Tutorials is a very nice series
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/syllabus/</guid>
-      <description> Readings should be completed before each class session. Assignments can be found at at the Assignments page and at OWL. Assignment are submitted using OWL.
-  Date Number Topic Reading Video Slides+ Assignment Solutions     Sept 13 Lecture 1, Hour 1 Orientation        Sept 13 Lecture 1, Hour 1 The first cancer hallmarks        Sept 20 Lecture 2, Hour 1 Hallmarks of cancer: next generation        Sept 20 Lecture 2, Hour 2 Hallmarks of cancer: new dimensions        Sept 27 Lecture 3, Hours 1 and 2 TBA        Sept 23 -- Assignment 1 start        Oct 4 Lecture 4, Hour 1 Quiz on Cancer Hallamarks (5%)        Oct 4 Lecture 4, Hour 2 TBA        Oct 10 -- Project proposal due (5%)        Oct 11 Lecture 5, Hours 1 and 2 TBA        Oct 18 Lecture 6, Hours 1 and 2 TBA        Oct 20 -- Assignment 1 due (15%)        Oct 25 -- Midterm, 2 hours in class (15%)        Oct 30 -- Assignment 2 start        Nov 8 Lecture 7, Hours 1 and 2 TBA        Nov 15 Lecture 8, Hours 1 and 2 TBA        Nov 22 Lecture 9, Hours 1 and 2 TBA        Nov 29 Lecture 10, Hours 1 and 2 TBA        Nov 30 -- Assignment 2 due (15%)        Dec 6 Lecture 11, Hours 1 and 2 TBA        Dec 10 -- Project due (20%)        TBA, 2pm-4pm -- Final (25%)         </description>
+      <description>Readings should be completed before each class session. Assignments can be found at at the Assignments page and at OWL. Assignment are submitted using OWL.
+  Date Number Topic Reading Video Slides+ Assignment Solutions     Sept 13 Lecture 1, Hour 1  M. Hallett; Orientation        Sept 13 Lecture 1, Hour 2 M. Hallett; Sustained proliferative signalling and tumor suppressor genes        Sept 20 Lecture 2, Hour 1 M.</description>
     </item>
     
   </channel>

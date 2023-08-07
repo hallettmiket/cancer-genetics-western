@@ -1,6 +1,0 @@
----
-title: "Quiz 1"
-date: "2022-08-01"
----
-
-[Google Drive Document](https://docs.google.com/document/d/1iX9xKmPpZtrU9pXoFu5KyV0Pfnzf5bCBL2jJ9dDyYuU/edit?usp=sharing)

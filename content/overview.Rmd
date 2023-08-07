@@ -16,10 +16,7 @@ library(pander)
 [^cell_signalling_poster]
 <span class="newthought">After some 45 years of research,</span> we now understand how genes with specific mutations govern a wide range of traits of cancer cells. Some mutations in some genes initiate carcinoma while other mutations confer existing tumors with new capacities that help it thrive. Techniques to study the genetics of cancers have advanced tremendously over this period. In 1975 it was a major effort to sequence a single gene. Now we routinely sequence hundreds of thousands of cells from a tumor genome. This capacity to characterize genotype to phenotype relations has given us the insight into why cancer cells behave the way they do.  
 
-<span class="newthought">There tends to be a massive number of molecular differences</span> [^courseinfo]  between different cancer types, and even between individual tumors of the same cancer type. However, all of this molecular diversity manifests relatively few different molecular and cellular processes and responses. These are often termed the __hallmarks of cancer__. This course is organized around the twelve hallmarks. In particular, our goal is to explore these hallmarks, their underlying molecular and cellular processes, and their underlying genes, gene products and epigenetic components.
-
-
-<span class="newthought">Cancer appears to be inherently difficult to "solve".</span> It remains a major research endeavour in academic settings, hospitals and research institutes, biotechnology firms and pharmaceutical companies. Yet even with all of this attention,  cancer still imposes great socioeconomic stress on individuals, families and societies. Perhaps this inherent difficultly originates from the fact that cancer is rooted in the laws of organismal development which have evolved at the least since the emergence of multicellular organisms. The disease exploits the same processes that made humans so interesting and powerful.
+<span class="newthought">There tends to be a massive number of molecular differences</span> [^courseinfo]  between different cancer types, and even between individual tumors of the same cancer type. However, all of this molecular diversity manifests relatively few different molecular and cellular processes and responses. These are often termed the hallmarks of cancer. Our goal is to explore these hallmarks, their underlying molecular and cellular processes, and their underlying genes, gene products and epigenetic components.
 
 The goals in this course are
 
@@ -31,24 +28,29 @@ The goals in this course are
 
 - to understand how  this information is synthesized and integrated to capture salient aspects of the human disease.
 
-The  lectures, assignments, project and examinations are structured to provide students with 
+The  lectures, assignment, project and examinations are structured to provide students with 
 the capacity to evaluate new reports and breakthroughs in cancer in a sound scientific manner, and the abilty to offer opinions and exhibit theoretical understanding of novel treatment scenarios. Lastly, there is emphasis on developing the skills to communicate technical concepts and experimental results to diverse audiences. 
  
 The full version of the following is available to OWL. The OWL website is the offical website for the course.
 
 
 <span class="newthought">[Textbooks]</span>
-We will primarily read papers from the primary literature. This includes review articles that provide scope and vision for the different hallmarks and their components. It also includes in depth research articles contributed by the individual lecturers who have been invited to speak about specific aspects of their cancer research. However, there are two excellent textbooks that I would recommend especially if you intend to continue in the field of cancer research. Both textbooks are classics in this field and provide a superb exposition of molecular cancer research.
+
+The first six weeks of the course will focus on the fundamental molecular basis of cancer. 
+We will follow the textbook 
 
 [^weinberg_book] 
  
-- [The Biology of Cancer, RA Weinberg, 2nd edition](https://blackwells.co.uk/bookshop/product/9780815345282?gC=4cfad707612&gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcQgzdyQdUqNEYMZSG-rMKGPuUJfxJDiAessacL76Ug2LztON-AvPDAaAqFXEALw_wcB)
+- [The Biology of Cancer, RA Weinberg, 3rd edition](https://wwnorton.com/books/9780393887655)
 
-Be aware that a third edition of this textbook is about to be released; it was scheduled by the publishers for July 2023.
+chapter by chapter (although not all parts of each chapter will be covered).
+Be aware that a third edition of this textbook was released only July 2023. 
+Although the 3rd edition is preferable, the other two editions (which you might find at cheaper
+cost) are also sufficient. We will try to highlight regions of the textbook that differ or
+are only present in the 3rd edition.
 
-[^pecorino_book]
+In the second half of the course, with the invited instructors, we will also  read papers from the primary literature. This includes review articles that provide scope and vision for the different hallmarks and their components. It also includes in depth research articles contributed by the individual lecturers who have been invited to speak about specific aspects of their cancer research. 
 
-- [Molecular biology of cancer, L Pecorino, 5th edition](https://blackwells.co.uk/bookshop/product/9780198833024?gC=4cfad707612&gclid=Cj0KCQjwzLCVBhD3ARIsAPKYTcToZTPkBp12P65AqGz6rYwJVP7XnGox2nU9dR_3nW6_Iro50SrGxbEaAvMqEALw_wcB)
 
 
 <span class="newthought">[Literature Search Tools]</span> We will make use of resources such as 
@@ -69,6 +71,4 @@ Be aware that a third edition of this textbook is about to be released; it was s
 [^weinberg_book]: {-}
  ![TextBook](/images/weinberg_book.png) 
  
-[^pecorino_book]: {-}
- ![TextBook](/images/pecorino_book.png) 
  
